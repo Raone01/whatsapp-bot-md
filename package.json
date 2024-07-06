@@ -1,6 +1,6 @@
 {
   "name": "levanter",
-  "version": "5.5.4",
+  "version": "5.5.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -43,5 +43,5 @@
     "translate-google-api": "^1.0.4",
     "youtubei.js": "10.0.0"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@1.22.22"
 }
